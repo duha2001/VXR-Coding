@@ -1,4 +1,4 @@
-# Vexere-LiveCoding
+# VXR-Coding
 
 ## 📋 Mô tả dự án
 
